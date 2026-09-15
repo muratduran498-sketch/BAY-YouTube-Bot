@@ -1,0 +1,43 @@
+# Core API & AI
+google-genai>=2.22.0
+python-dotenv>=1.0.1
+
+# OpenAI TTS (opsiyonel ücretli seslendirme motoru; API Ayarları sekmesinden
+# anahtar girilirse kullanılır, girilmezse edge-tts ile ücretsiz devam eder)
+openai>=1.40.0
+
+# ElevenLabs doğrudan HTTP API kullanır; ek SDK gerekmez.
+
+# Text-to-Speech (edge-tts: ücretsiz, yüksek kalite, internet gerektir)
+edge-tts>=6.1.0
+mutagen>=1.47.0
+
+# Video Processing (MoviePy 2.x: ImageMagick gerektirmez)
+moviepy>=1.0.3
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# YouTube API (OAuth & upload)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# Web & HTTP
+requests>=2.31.0
+
+# Lisans sistemi (Ed25519 imza doğrulama)
+cryptography>=41.0.0
+
+# Hugging Face (görsel üretimi için FLUX modelleri)
+huggingface-hub>=0.17.0
+
+# GUI (Custom Tkinter: modern dark UI)
+customtkinter>=5.2.0
+
+# Utilities
+urllib3>=2.0.0
+
+# Development (opsiyonel, test/lint için)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
