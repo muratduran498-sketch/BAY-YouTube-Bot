@@ -13,16 +13,21 @@ Kurulum.bat dosyasına çift tıkla → Enter → Bitene kadar bekle
 Uygulamayi_Baslat.bat dosyasına çift tıkla
 ```
 
-### 3. Lisans Anahtarını Yapıştır
-Kilit ekranında satıcıdan aldığın uzun metni yapıştır:
-```
 
-```
+### 3. Lisans Anahtarını Yapıştır
+Kilit ekranında satıcıdan aldığın uzun metni yapıştır.
 
 ### 4. Aktifleştir
 "✅ Aktifleştir" butonuna bas → ✅ Çalışır!
 
 ---
+
+## 📞 Lisans Almak İçin
+Satıcıya (muratduran498-sketch) yazarak lisans anahtarı iste.
+
+---
+
+**Sürüm:** 1.0.0 | **GitHub:** muratduran498-sketch/BAY-YouTube-Bot
 
 ## 📁 Klasör Yapısı
 
