@@ -23,8 +23,8 @@ Kilit ekranında satıcıdan aldığın uzun metni yapıştır.
 ---
 
 ## 📞 Lisans Almak İçin
-Satıcıya (muratduran498-sketch) yazarak lisans anahtarı iste.
-
+Lisans anahtarı için satıcıyla iletişime geçin.
+Satıcı maili: sromuratduran@gmail.com
 ---
 
 **Sürüm:** 1.0.0 | **GitHub:** muratduran498-sketch/BAY-YouTube-Bot
