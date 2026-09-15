@@ -16,7 +16,7 @@ Uygulamayi_Baslat.bat dosyasına çift tıkla
 ### 3. Lisans Anahtarını Yapıştır
 Kilit ekranında satıcıdan aldığın uzun metni yapıştır:
 ```
-eyJjdXN0b21lciI6Ik1VUkFULUtFTkRJLUxJU0FOU0lNIi...
+
 ```
 
 ### 4. Aktifleştir
